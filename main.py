@@ -14,7 +14,7 @@ dis_height = 600
 
 pygame.init()
 dis = pygame.display.set_mode((dis_width, dis_height))
-pygame.display.set_caption('Snake Game by Edureka')
+pygame.display.set_caption('Snake Game by Bart')
 
 clock = pygame.time.Clock()
 
